@@ -18,7 +18,7 @@ Los datos provienen de lecturas reales de sensores e instrumentos (flujos, pH, d
 
 ## 🎯 Hipótesis Planteadas
 Durante el análisis, se plantearon las siguientes preguntas enfocadas en el control del proceso:
-1. **Factor Humano:** ¿Existe una mayor variabilidad en las variables de control (pH de la pulpa, flujo de aire) durante el Turno Noche (19:00 a 07:00) frente al Turno Día (07:00 a 19:00), sugiriendo diferencias en la intervención manual de los operadores?
+1. **Factor Humano:** ¿Existe una mayor variabilidad en las variables de control (pH de la pulpa, flujo de aire) durante el Turno Noche (20:00 a 08:00) frente al Turno Día (08:00 a 20:00), sugiriendo diferencias en la intervención manual de los operadores?
 2. **Rendimiento Operativo:** ¿La planta logra mantener una calidad de mineral estable independientemente del turno?
 3. **Control de Reactivos:** ¿El aumento del flujo de reactivo (Amina) tiene una correlación lineal directa con la reducción del porcentaje de impureza (Sílice)?
 4. **Comprobación Física:** ¿Se puede verificar matemáticamente la correlación negativa entre el concentrado de hierro y el de sílice a la salida de las columnas?
