@@ -36,7 +36,6 @@ Tras la limpieza de datos (chequeo de nulos, duplicados y normalización) y la e
 * **Entorno:** Google Colab / Jupyter Notebook
 * **Librerías:** Pandas (Manipulación de datos), Matplotlib & Seaborn (Visualización)
 * **Asistente de IA:** Google Gemini (Soporte en generación de sintaxis, debugging de código y formateo de visualizaciones).
-
 * ---
 **Nota sobre el uso de herramientas de asistencia:**
 Para la optimización del código en este Trabajo Práctico, se utilizó el modelo de inteligencia artificial Gemini (Google). Su aplicación se restringió estrictamente al *debugging* de errores en Colab, la generación de sintaxis para las librerías de visualización y el formato del documento, manteniendo la selección de variables, la definición de hipótesis y el análisis crítico del proceso industrial bajo la autoría e interpretación directa del estudiante.
