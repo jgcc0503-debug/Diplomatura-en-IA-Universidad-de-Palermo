@@ -1,7 +1,7 @@
 # Diplomatura-en-IA-Universidad-de-Palermo
 # Análisis Exploratorio de Datos (EDA) - Planta de Flotación (Proceso Minero)
 
-**Universidad de Palermo** - Ingeniería Industrial
+**Universidad de Palermo** -
 **Autor:** Cocha Jorge
 
 ---
